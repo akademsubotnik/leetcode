@@ -4,8 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        index = 0
-        counter = 0
+        index,counter = 0,0
         
         while index < len(nums) :
             if len(str(nums[index])) % 2  == 0:
