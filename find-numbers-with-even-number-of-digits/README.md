@@ -1,7 +1,7 @@
 Success
 Details
-Runtime: 40 ms, faster than 76.97% of Python online submissions for Find Numbers with Even Number of Digits.
-Memory Usage: 13.4 MB, less than 5.03% of Python online submissions for Find Numbers with Even Number of Digits.
+Runtime: 36 ms, faster than 91.98% of Python online submissions for Find Numbers with Even Number of Digits.
+Memory Usage: 13.8 MB, less than 5.03% of Python online submissions for Find Numbers with Even Number of Digits.
 
 Given an array nums of integers, return how many of them contain an even number of digits.
 
