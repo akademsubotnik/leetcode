@@ -9,7 +9,6 @@ class Solution(object):
         
         for counter in range(len(str)) :
             if str[counter].isupper() :
-                #print "is upper"
                 str_return.append(str[counter].lower())
             else :
                 str_return.append(str[counter])
