@@ -4,17 +4,11 @@ class Solution(object):
         :type str: str
         :rtype: str
         """
-        counter = 0
-        str_return = []
+        str_return = ""
         
         for counter in range(len(str)) :
             if str[counter].isupper() :
-                str_return.append(str[counter].lower())
+                str_return = str_return + str[counter].lower()
             else :
-                str_return.append(str[counter])
-        #return str_return
-        
-        str_3 = ""
-        for counter in range(len(str_return)) :
-            str_3 = str_3 + str_return[counter]
-        return str_3
+                str_return = str_return + str[counter]
+        return str_return
