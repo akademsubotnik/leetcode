@@ -1,7 +1,7 @@
 Success
 Details
-Runtime: 28 ms, faster than 13.68% of Python online submissions for To Lower Case.
-Memory Usage: 13.6 MB, less than 5.13% of Python online submissions for To Lower Case.
+Runtime: 16 ms, faster than 77.78% of Python online submissions for To Lower Case.
+Memory Usage: 13.4 MB, less than 5.13% of Python online submissions for To Lower Case.
 
 
 Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
