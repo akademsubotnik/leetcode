@@ -6,10 +6,6 @@ class Solution(object):
         """
         counter = 0
         str_return = []
-        #while counter < len(str) :
-        #    if str[counter].isupper() :
-        #        print "IS UPPER"
-        #    counter +=1
         
         for counter in range(len(str)) :
             if str[counter].isupper() :
