@@ -1,11 +1,13 @@
 Submission Detail
-2 / 59 test cases passed.
+3 / 59 test cases passed.
 	Status: Wrong Answer
 	
 Submitted: 0 minutes ago
 Input: "(()())(())(()(()))"
 Output: "()()()()()"
 Expected: "()()()()(())"
+
+
 
 
 
