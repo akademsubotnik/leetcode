@@ -1,14 +1,5 @@
-Submission Detail
-3 / 59 test cases passed.
-	Status: Wrong Answer
-	
-Submitted: 0 minutes ago
-Input: "(()())(())(()(()))"
-Output: "()()()()()"
-Expected: "()()()()(())"
-
-
-
+Test Case: "(()())(())(()(()))"
+Breaking with an IndexError: string index out of range , line print str(counter) + " " + str_return[counter]
 
 
 A valid parentheses string is either empty (""), "(" + A + ")", or A + B, where A and B are valid parentheses strings, and + represents string concatenation.  For example, "", "()", "(())()", and "(()(()))" are all valid parentheses strings.
