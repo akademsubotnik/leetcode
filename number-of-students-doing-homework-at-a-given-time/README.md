@@ -1,7 +1,7 @@
 Success
 Details
-Runtime: 32 ms, faster than 24.38% of Python online submissions for Number of Students Doing Homework at a Given Time.
-Memory Usage: 13.4 MB, less than 5.74% of Python online submissions for Number of Students Doing Homework at a Given Time.
+Runtime: 20 ms, faster than 92.55% of Python online submissions for Number of Students Doing Homework at a Given Time.
+Memory Usage: 13.4 MB, less than 6.68% of Python online submissions for Number of Students Doing Homework at a Given Time.
 
 
 Given two integer arrays startTime and endTime and given an integer queryTime.
