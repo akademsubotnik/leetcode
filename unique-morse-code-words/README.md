@@ -1,7 +1,7 @@
 Success
 Details
-Runtime: 24 ms, faster than 66.98% of Python online submissions for Unique Morse Code Words.
-Memory Usage: 13.3 MB, less than 5.66% of Python online submissions for Unique Morse Code Words.
+Runtime: 20 ms, faster than 86.04% of Python online submissions for Unique Morse Code Words.
+Memory Usage: 13.4 MB, less than 5.09% of Python online submissions for Unique Morse Code Words.
 
 
 International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on.
