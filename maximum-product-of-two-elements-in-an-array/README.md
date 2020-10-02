@@ -1,7 +1,7 @@
 Success
 Details
-Runtime: 32 ms, faster than 94.76% of Python online submissions for Maximum Product of Two Elements in an Array.
-Memory Usage: 13.3 MB, less than 11.30% of Python online submissions for Maximum Product of Two Elements in an Array.
+Runtime: 28 ms, faster than 98.83% of Python online submissions for Maximum Product of Two Elements in an Array.
+Memory Usage: 13.5 MB, less than 8.62% of Python online submissions for Maximum Product of Two Elements in an Array.
 
 
 Given the array of integers nums, you will choose two different indices i and j of that array. Return the maximum value of (nums[i]-1)*(nums[j]-1).
