@@ -1,7 +1,7 @@
 Success
 Details
-Runtime: 40 ms, faster than 58.52% of Python online submissions for Flipping an Image.
-Memory Usage: 13.3 MB, less than 6.97% of Python online submissions for Flipping an Image.
+Runtime: 28 ms, faster than 99.56% of Python online submissions for Flipping an Image.
+Memory Usage: 13.5 MB, less than 5.04% of Python online submissions for Flipping an Image.
 
 Given a binary matrix A, we want to flip the image horizontally, then invert it, and return the resulting image.
 
