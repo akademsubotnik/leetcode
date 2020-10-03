@@ -27,14 +27,12 @@ class Solution(object):
             else :
                 return_array.append(transform_dict.get(s[i]))
                 i += 1
-                
-        #print str(return_array)
         
         return_string = ""
         for i in range(len(return_array)):
-            #print return_array[i]
             if return_array[i] != None :
                 return_string += str(return_array[i])
             
         return return_string
+            
             
