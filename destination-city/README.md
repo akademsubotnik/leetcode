@@ -1,7 +1,7 @@
 Success
 Details
-Runtime: 44 ms, faster than 42.54% of Python online submissions for Destination City.
-Memory Usage: 13.5 MB, less than 5.10% of Python online submissions for Destination City.
+Runtime: 40 ms, faster than 68.06% of Python online submissions for Destination City.
+Memory Usage: 13.4 MB, less than 5.10% of Python online submissions for Destination City.
 
 You are given the array paths, where paths[i] = [cityAi, cityBi] means there exists a direct path going from cityAi to cityBi. Return the destination city, that is, the city without any path outgoing to another city.
 
