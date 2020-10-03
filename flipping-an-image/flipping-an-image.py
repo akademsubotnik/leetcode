@@ -12,28 +12,21 @@ class Solution(object):
         #[0,1,1,0] 4 Stop at and include len/2 element
         
         #List has been flipped with python list's built in reversed function
-        flipped_list = []
-        tmp_list = []
-        counter = 0
+        flipped_list,tmp_list,counter = [],[],0
         for i in A:
             tmp_list = reversed(i)
             flipped_list.insert(counter,tmp_list)
             counter += 1
         
-        #return flipped_list
-        reciprocal_list = []
-        counter_2 = 0
-        counter_3 = 0
+        reciprocal_list,locallist_counter,reciprocallist_counter = [],0,0
         for i in flipped_list:
             local_list = []
             for j in i:
                 if j == 0:
-                    local_list.insert(counter_2,1)
-                    #reciprocal_list.insert(counter_2,1)
+                    local_list.insert(locallist_counter,1)
                 elif j == 1:
-                    local_list.insert(counter_2,0)
-                    #reciprocal_list.insert(counter_2,0)
-                counter_2 += 1
-            reciprocal_list.insert(counter_3,local_list)
-            counter_3 += 1
+                    local_list.insert(locallist_counter,0)
+                locallist_counter += 1
+            reciprocal_list.insert(reciprocallist_counter,local_list)
+            reciprocallist_counter += 1
         return reciprocal_list
