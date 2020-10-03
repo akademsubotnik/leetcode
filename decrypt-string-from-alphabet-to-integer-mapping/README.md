@@ -1,7 +1,7 @@
 Success
 Details
 Runtime: 24 ms, faster than 39.72% of Python online submissions for Decrypt String from Alphabet to Integer Mapping.
-Memory Usage: 13.6 MB, less than 5.14% of Python online submissions for Decrypt String from Alphabet to Integer Mapping.
+Memory Usage: 13.3 MB, less than 6.78% of Python online submissions for Decrypt String from Alphabet to Integer Mapping.
 
 Given a string s formed by digits ('0' - '9') and '#' . We want to map s to English lowercase characters as follows:
 
