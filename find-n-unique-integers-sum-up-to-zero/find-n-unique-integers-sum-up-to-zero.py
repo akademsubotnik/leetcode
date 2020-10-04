@@ -12,11 +12,11 @@ class Solution(object):
         return_list,counter = [],1
 
         while counter <= int(math.floor(n/2)) :
-            return_list.append(counter)
-            return_list.append(counter * -1)
+            return_list.insert(counter,counter)
+            return_list.insert(counter+1,counter * -1)
             counter += 1
         
         if n % 2 != 0 :
-            return_list.append(0)
+            return_list.insert(n,0)
         
-        return list(return_list)
+        return return_list
