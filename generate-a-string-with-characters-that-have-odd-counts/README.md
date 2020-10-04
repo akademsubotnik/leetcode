@@ -1,7 +1,7 @@
 Success
 Details
-Runtime: 20 ms, faster than 47.77% of Python online submissions for Generate a String With Characters That Have Odd Counts.
-Memory Usage: 13.6 MB, less than 5.05% of Python online submissions for Generate a String With Characters That Have Odd Counts.
+Runtime: 16 ms, faster than 78.04% of Python online submissions for Generate a String With Characters That Have Odd Counts.
+Memory Usage: 13.5 MB, less than 5.05% of Python online submissions for Generate a String With Characters That Have Odd Counts.
 
 
 
