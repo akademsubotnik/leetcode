@@ -1,4 +1,3 @@
-import math
 class Solution(object):
     def sumZero(self, n):
         """
@@ -11,7 +10,7 @@ class Solution(object):
         
         return_list,counter = [],1
 
-        while counter <= int(math.floor(n/2)) :
+        while counter <= int(n/2) :
             return_list.insert(counter,counter)
             return_list.insert(counter+1,counter * -1)
             counter += 1
