@@ -4,17 +4,13 @@ class Solution(object):
         :type n: int
         :rtype: str
         """
-        return_array = []
+        str_return = ""
         if n % 2 == 0 :
             for i in range(n - 1) : 
-                return_array.append('a')
-            return_array.append('z')
+                str_return += 'a'
+            str_return += 'z'
         else :
             for i in range(n) :
-                return_array.append('a')
-        
-        str_return = ""
-        for i in range (len(return_array)) :
-            str_return += return_array[i]
-        
+                str_return += 'a'
+
         return str_return
