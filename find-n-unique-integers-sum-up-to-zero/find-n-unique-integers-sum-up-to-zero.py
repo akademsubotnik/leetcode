@@ -9,14 +9,14 @@ class Solution(object):
         #If n is an even number, return n numbers, where half are positve and the other half are the negative version of that number
 
         
-        return_array,counter = [],1
+        return_list,counter = [],1
 
         while counter <= int(math.floor(n/2)) :
-            return_array.append(counter)
-            return_array.append(counter * -1)
+            return_list.append(counter)
+            return_list.append(counter * -1)
             counter += 1
         
         if n % 2 != 0 :
-            return_array.append(0)
+            return_list.append(0)
         
-        return list(return_array)
+        return list(return_list)
