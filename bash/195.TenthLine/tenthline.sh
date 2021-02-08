@@ -2,7 +2,7 @@
 
 #Given a text file file.txt, print just the 10th line of the file.
 
-filename='company.txt'
+filename='file.txt'
 n=1
 while read line; do
 # reading each line
