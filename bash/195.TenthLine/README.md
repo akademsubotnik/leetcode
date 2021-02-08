@@ -1,3 +1,10 @@
+Success
+Details
+Runtime: 4 ms, faster than 79.98% of Bash online submissions for Tenth Line.
+Memory Usage: 3.6 MB, less than 29.43% of Bash online submissions for Tenth Line.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 Given a text file file.txt, print just the 10th line of the file.
 
 Example:
