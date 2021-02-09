@@ -1,3 +1,10 @@
+Success
+Details
+Runtime: 0 ms, faster than 100.00% of Bash online submissions for Valid Phone Numbers.
+Memory Usage: 3.1 MB, less than 48.45% of Bash online submissions for Valid Phone Numbers.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 Given a text file file.txt that contains list of phone numbers (one per line), write a one liner bash script to print all valid phone numbers.
 
 You may assume that a valid phone number must appear in one of the following two formats: (xxx) xxx-xxxx or xxx-xxx-xxxx. (x means a digit)
