@@ -8,10 +8,11 @@ read sidethree
 if [ $sideone -eq $sidetwo ] && [ $sidetwo -eq $sidethree ]
 then
   echo "EQUILATERAL"
-#SCALENE
-elif [ $sideone -ne $sidetwo ] && [ $sideone -ne $sidethree ] && [ -$sidetwo -ne $sidethree ]
+#ISOSCELES
+elif [ $sideone -eq $sidetwo ] || [ $sideone -eq $sidethree ] || [ $sidetwo -eq $sidethree ]
 then
-  echo "SCALENE"
-else
   echo "ISOSCELES"
+#SCALENE
+else
+  echo "SCALENE"
 fi
